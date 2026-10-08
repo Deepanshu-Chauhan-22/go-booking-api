@@ -1,0 +1,22 @@
+# Go build
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Test / benchmark files
+*.bin
+*.out
+*.prof
+
+# Vegeta
+dynamic_targets.json
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
